@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Учебная\итог\controlWork\bin\Debug\net6.0\controlWork.exe
+C:\Users\admin\Desktop\Учебная\итог\controlWork\bin\Debug\net6.0\controlWork.deps.json
+C:\Users\admin\Desktop\Учебная\итог\controlWork\bin\Debug\net6.0\controlWork.runtimeconfig.json
+C:\Users\admin\Desktop\Учебная\итог\controlWork\bin\Debug\net6.0\controlWork.dll
+C:\Users\admin\Desktop\Учебная\итог\controlWork\bin\Debug\net6.0\controlWork.pdb
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.AssemblyInfo.cs
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.dll
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\refint\controlWork.dll
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.pdb
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\controlWork.genruntimeconfig.cache
+C:\Users\admin\Desktop\Учебная\итог\controlWork\obj\Debug\net6.0\ref\controlWork.dll
